@@ -15,5 +15,3 @@ A unidade em permite dimensionamento relativo ao elemento pai, promovendo respon
 
 O peso da fonte influencia diretamente na legibilidade e hierarquia visual do texto.
 
-🧪 Exemplo Prático:
-A página exibe um título <h1> e um parágrafo <p> demonstrando o uso prático da tipografia CSS.
